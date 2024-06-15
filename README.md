@@ -21,7 +21,7 @@ For example, the following regular expression can be used to verify that user in
 
 ## Tutorial
 
-[Link Tutorial](https://gist.github.com/PonchoBT/6d094e7ef81c319afa23a7c43c2ce8d7)
+[Link Tutorial]([https://gist.github.com/PonchoBT/6d094e7ef81c319afa23a7c43c2ce8d7](https://gist.github.com/PonchoBT/6d094e7ef81c319afa23a7c43c2ce8d7))
 
 
 ##  Example JS code
